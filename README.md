@@ -39,7 +39,8 @@ File with R code "run_analysis.R" perform 5 following steps (in accordance assig
   2.2 Create vector for defining ID, mean and standard deviation
   2.3 Making nessesary subset from setAllInOne
   3. Using descriptive activity names to name the activities in the data set
-4. Appropriately labeling the data set with descriptive variable names
+4. Appropriately labeling the data set with descriptive variable names.
+
 5.Creating a second, independent tidy data set with the average of each variable for each activity and each subject
   5.1 Making second tidy data set
   5.2 Writing second tidy data set in txt file
